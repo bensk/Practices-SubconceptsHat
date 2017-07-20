@@ -1,1 +1,3 @@
-# Practices-SubconceptsHat
+# 🎩 Practices-Subconcepts Hat
+For the CS PD Leads-
+Pick a practice and a sub-concept out of hat...
