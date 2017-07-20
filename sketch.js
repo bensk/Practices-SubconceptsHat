@@ -22,9 +22,9 @@ var sub_concepts = [
     "Markup",
 ]
 var practices = [
-    'prototype',
-    'analyze',
-    'communicate'
+    'Prototype',
+    'Analyze',
+    'Communicate'
 ]
 
 
